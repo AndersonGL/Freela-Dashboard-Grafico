@@ -5,6 +5,6 @@
  
 ** npm init -y  =  instalando o packge.json **
 
-**npm i express dotenx  =  Instalando os módulos **
+** npm i express dotenx  =  Instalando os módulos **
 
 ** Rondando o projeto npm start porta 3000 **
