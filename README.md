@@ -1,10 +1,28 @@
-# Freela-Dashboard-Grafico
+# 🧾 Freela Dashboard com Gráficos
 
-## Este projeto é perfeito para freelancers que querem vender uma solução simples e funcional para pequenas empresas. Vamos detalhar a construção de um sistema com uma tela de login e um dashboard com gráficos, mostrar como rodar o sistema localmente, além de sugerir formas de incrementá-lo para atrair novos clientes.
+Um dashboard simples, profissional e ideal para freelancers que querem oferecer soluções rápidas e funcionais para pequenas empresas.
 
- 
-**npm init -y  =  instalando o packge.json**
+Este projeto inclui:
 
-**npm i express dotenx  =  Instalando os módulos**
+✅ Tela de Login  
+✅ Dashboard com gráficos  
+✅ Backend em Node.js + Express  
+✅ Variáveis de ambiente (.env)  
+✅ Interface simples, funcional e fácil de personalizar
 
-**Rondando o projeto npm start porta 3000**
+---
+
+## 🚀 Tecnologias Utilizadas
+
+| Tecnologia | Função |
+|----------|--------|
+| Node.js | Ambiente backend |
+| Express | Servidor HTTP |
+| Chart.js | Geração de gráficos no dashboard |
+| dotenv | Configuração de variáveis de ambiente |
+| HTML / CSS / JS | Interface |
+
+---
+
+## 📂 Estrutura do Projeto
+
