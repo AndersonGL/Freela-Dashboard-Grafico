@@ -48,7 +48,8 @@ cd Freela-Dashboard-Grafico
 ### 2️⃣ Instalar dependências
 
 ``` bash
-npm install
+npm init -y
+npm i express dotenv
 ```
 
 ### 3️⃣ Configurar variáveis de ambiente
