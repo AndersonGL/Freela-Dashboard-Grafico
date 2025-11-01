@@ -1,4 +1,4 @@
-# 🧾 Freela Dashboard com Gráficos
+# 🧾 Dashboard com Gráficos
 
 Um dashboard simples, profissional e ideal para freelancers que querem oferecer soluções rápidas e funcionais para pequenas empresas.
 
