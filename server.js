@@ -11,6 +11,8 @@ const PORT = process.env.PORT || 3000;
 app.use(express.static("public"));
 app.use(express.urlencoded({ extended: true }));
 
+// app.use(express.json())  ele vai tratar para pode usar caso tivesse usando um arquivo json. No caso to usando um formulário utilizo mesmmo o urlencoded
+
 // Rotas
 app.get("/", (req, res) => {
   res.sendFile(path.resolve("views/login.html"));
